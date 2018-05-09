@@ -1,0 +1,156 @@
+<div class="container container_slider">
+    <div id="myCarousel" class="carousel slide col-xs-12 col-sm-12 col-md-10" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+
+      <div class="item active">
+        <img src="../../assets/images_1.jpg" alt="Los Angeles" style="width:100%;">
+        <div class="carousel-caption">
+          <h3>Los Angeles</h3>
+          <p>LA is always so much fun!</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="../../assets/images_2.jpg" alt="Chicago" style="width:100%;">
+        <div class="carousel-caption">
+          <h3>Chicago</h3>
+          <p>Thank you, Chicago!</p>
+        </div>
+      </div>
+    
+      <div class="item">
+        <img src="../../assets/images_3.jpg" alt="New York" style="width:100%;">
+        <div class="carousel-caption">
+          <h3>New York</h3>
+          <p>We love the Big Apple!</p>
+        </div>
+      </div>
+  
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+ <div class='col-xs-12 col-sm-12 col-md-2 sidebar'>
+        <h3>Categories</h3>
+        <ul class="nav nav-tabs nav-stacked">
+          <li><a href='#'><img src="../../assets/mob1.jpg">Education</a></li>
+          <li><a href='#'><img src="../../assets/mob2.jpg">Entertainment</a></li>
+          <li><a href='#'><img src="../../assets/mob3.jpg">HealthCare</a></li>
+          <li><a href='#'><img src="../../assets/mob1.jpg">Software and hardware</a></li>
+        </ul>
+</div>
+
+
+
+
+</div>
+<div class='container'>
+   <div id='content' class='row-fluid '>
+    <div class='col-xs-12 xol-sm-2 col-md-2 sidebar'>
+        <h3>Most Popular</h3>
+        <ul class="nav nav-tabs nav-stacked">
+          <li><a href='#'>The Witness MOBILE ‘THE WITNESS’ FOR IOS BRINGS YOU SOOTHING GRAPHICS TO ACCOMPANY TOUGH PUZZLES</a></li>
+          <li><a href='#'>Intel reveals its 8th-gen desktop CPU rollout early dubbed as Coffee Lake-S</a></li>
+          <li><a href='#'>Intel reveals its 8th-gen desktop CPU rollout early dubbed as Coffee Lake-S</a></li>
+          <li><a href='#'>Intel reveals its 8th-gen desktop CPU rollout early dubbed as Coffee Lake-S</a></li>
+        </ul>
+      </div>
+      <div class='col-xs-12 xol-sm-8 col-md-8 main'>
+        <h2>View updates</h2>
+        <div class="col-xs-12 col-sm-5 col-md-5 col-md-offset-1 thumb_item" *ngFor="let items of pagedItems">
+          
+       <div class=" new_thumb">
+       <div class="thumb">
+         <a href=""><img src="{{items.img}}" class="thumb_img img-responsive"  >
+         </a>
+       </div>
+        <h3 class="thumb_head">{{items.name}} </h3>
+       <div class="thumb_data">
+         <p>{{items.content}}</p>
+       </div>
+        <div class="post_infmn">
+       <span>8 hours ago</span>
+       <span class="dash">-</span>
+       <span class="by">by</span>
+       <a href="" class="author">Josmy jose</a>
+
+       </div >
+<!-- //footer -->
+<div class="content-footer">
+        <img class="user-small-img" src="../../assets/josmy.jpg">
+        <span style="font-size: 16px;color: #fff;">Josmy jose</span>
+        <span class="pull-right like">
+        <a href="#" data-toggle="tooltip" data-placement="left" title="Comments"><i class="fa fa-comments" ></i> 30</a>
+        <a href="#" data-toggle="tooltip" data-placement="right" title="Loved"><i class="fa fa-heart"></i> 20</a>                  
+        </span>
+                    <div class="user-ditels">
+                    <div class="user-img"><img src="../../assets/josmy.jpg" class="img-responsive"></div>
+                        <span class="user-full-ditels">
+                        <h3>Josmy jose</h3>
+                        <p>Web & Graphics Disigner</p>
+                        </span>
+                        <div class="social-icon">
+            <a href="#"><i class="fa fa-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"></i></a>
+            <a href="#"><i class="fa fa-google-plus" data-toggle="tooltip" data-placement="bottom" title="Google Plus"></i></a>
+            <a href="#"><i class="fa fa-youtube" data-toggle="tooltip" data-placement="bottom" title="Youtube"></i></a>
+            <a href="#"><i class="fa fa-github" data-toggle="tooltip" data-placement="bottom" title="Github"></i></a>       
+          </div>
+                    </div>
+</div>
+
+
+
+
+
+
+        </div>
+
+
+       </div>
+       <ul *ngIf="pager.pages && pager.pages.length" class="pagination">
+                <li [ngClass]="{disabled:pager.currentPage === 1}">
+                    <a (click)="setPage(1)">First</a>
+                </li>
+                <li [ngClass]="{disabled:pager.currentPage === 1}">
+                    <a (click)="setPage(pager.currentPage - 1)">Previous</a>
+                </li>
+                <li *ngFor="let page of pager.pages" [ngClass]="{active:pager.currentPage === page}">
+                    <a (click)="setPage(page)">{{page}}</a>
+                </li>
+                <li [ngClass]="{disabled:pager.currentPage === pager.totalPages}">
+                    <a (click)="setPage(pager.currentPage + 1)">Next</a>
+                </li>
+                <li [ngClass]="{disabled:pager.currentPage === pager.totalPages}">
+                    <a (click)="setPage(pager.totalPages-1)">Last</a>
+                </li>
+            </ul>
+  </div>
+
+      <div class='col-xs-12 xol-sm-2 col-md-2 sidebar'>
+        <h3>Recent Story</h3>
+        <ul class="nav nav-tabs nav-stacked"  *ngFor="let it of rss">
+          <li><a href='{{it.link}}'>{{it.title}}</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+ 
+

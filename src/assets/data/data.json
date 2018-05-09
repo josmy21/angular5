@@ -1,0 +1,510 @@
+{
+
+"Education":{
+    "image1": {
+        "img": "assets/education/education1.jpg",
+        "name": "Mathematics",
+        "views":3456781,
+        "content":"Here involved few maths tricks to play. You can play these number tricks as instructed, with your parents or friends and prove your talent to them",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image2": {
+        "img": "assets/education/education2.jpg",
+        "name": "Vocabulary",
+        "views":545,
+        "content":"Vocabulary word lists and various games, puzzles and quizzes to help you study them. ... Word Lists. You can study a set of words, then choose a game.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image3": {
+        "img": "assets/education/education3.jpg",
+        "name": "Fun Learning",
+        "views":545,
+        "content":"Play, Learn and Grow… Together! Our Schedule. The Early Learning Workshop follows an academic calendar and is open September through June.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+
+    },
+    "image4": {
+      "img": "assets/education/education4.jpg",
+        "name": "Science",
+        "views":4452,
+        "content":"Mad Science transforms laboratory science into fun, interactive learning experiences for kids. Our programs have been experienced by over 6.5 million children ",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image5": {
+      "img": "assets/education/education5.jpg",
+        "name": "Pre-School",
+        "views":3456783,
+        "content":"The Alliance works to support pre-schools across the whole of England and has local branches nationwide, supported by four Divisional Office and a National ",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image6": {
+      "img": "assets/education/education6.jpg",
+        "name": "Lets start",
+        "views":11782,
+        "content":"Whatever your goal, here are a few things to try to get the school year off to a great ... One drama teacher actually starts her beginning drama class by making",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image7": {
+      "img": "assets/education/education7.jpg",
+        "name": "Art & craft",
+        "views":56782,
+        "content":"These aren't just arts and crafts for kids; they're fun for the whole family too! Our selection of art projects for kids",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image8": {
+      "img": "assets/education/education8.jpg",
+        "name": "Writing skill",
+        "views":16782,
+        "content":"It is more than just putting words on paper. Writing is a process of communication that plays an important role in your child's life",
+        "rating":1.5,
+        "ratingimg":"assets/onept5.png"
+    },
+    "image9": {
+      "img": "assets/education/education9.jpg",
+        "name": "Infrastructure",
+        "views":956782,
+        "content":"Good education is seen as a stepping stone to a high flying career.Nice Infrastructure is needed.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image10": {
+      "img": "assets/education/education10.jpg",
+        "name": "Graduate",
+        "views":7456782,
+        "content":"The road to becoming a great graduate student can be a tough one. Hear professors' expectations for students and how to act on them to ",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image11": {
+      "img": "assets/education/education11.jpg",
+        "name": "Technology",
+        "views":64782,
+        "content":"SMART provides digital whiteboards, collaboration software and interactive displays for education, business and government.",
+        "rating":1,
+        "ratingimg":"assets/one.png"
+    },
+    "image12": {
+      "img": "assets/education/education12.jpg",
+        "name": "Knowledge",
+        "views":2456782,
+        "content":"educated is a better society—I sincerely hope that we can keep educational attainable and affordable for future generations of Hoosiers to come.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    }
+
+},
+
+"Entertainment":{
+    "image13": {
+        "img": "assets/entertainment/entertainment1.jpg",
+        "name": "Music",
+        "views":56082,
+        "content":"Music is a form of entertainment that puts sounds together in a way that people like or find interesting. Most music includes people singing with their voices or playing musical instruments, such as the piano, guitar, or drums.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image14": {
+        "img": "assets/entertainment/entertainment2.jpg",
+        "name": "Filmy",
+        "views":34782,
+        "rating":3,
+        "ratingimg":"assets/three.png",
+        "content":"Filmy is an Indian Hindi language movie channel based in Mumbai, Maharashtra.[1] It is owned by Sahara One Media and Entertainment Limited and was launched "
+    },
+    "image15": {
+        "img": "assets/entertainment/entertainment3.jpg",
+        "name": "Power Rangers",
+        "views":34582,
+        "content":"A closeknit band of teenagers in fictional Angel Grove, Calif., transforms into a uniformed team of superheroes ready to take on any villains.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image16": {
+      "img": "assets/entertainment/entertainment4.jpg",
+        "name": "Games",
+        "views":886782,
+        "content":"This is the best and most realistic 3D bowling game on the Android phones. It is the only bowling game that fully embraces the incredible 3D physics engine.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image17": {
+      "img": "assets/entertainment/entertainment5.jpg",
+        "name": "Cricket",
+        "views":956782,
+        "content":" watch free cricket highlights online, cricket news, videos & scorecards. Interviews, latest events and features from all around the world.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image18": {
+      "img": "assets/entertainment/entertainment6.jpg",
+        "name": "Cartoon",
+        "views":8456782,
+        "content":"Welcome to India Cartoon Network. We offer many video clips, TV episodes and programs, free prizes, and free online games starring popular cartoon",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image19": {
+      "img": "assets/entertainment/entertainment7.jpg",
+        "name": "Play Station",
+        "views":6456782,
+        "content":"PlayStation is a series of video game consoles created and developed by Sony Interactive Entertainment.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image20": {
+      "img": "assets/entertainment/entertainment8.jpg",
+        "name": "Android apps",
+        "views":879,
+        "content":"Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. ... Top Free in Entertainment ... Starz Entertainment, LLC. 1. Free.",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image21": {
+      "img": "assets/entertainment/entertainment9.jpg",
+        "name": "Theme Park",
+        "views":167,
+        "content":"An amusement park or theme park is a group of entertainment attractions, rides, and other events in a location for the enjoyment of large numbers of people.",
+        "rating":1,
+        "ratingimg":"assets/one.png"
+    },
+    "image22": {
+      "img": "assets/entertainment/entertainment10.jpg",
+        "name": "Circus",
+        "views":123,
+        "content":"A circus is a company of performers that may include clowns, acrobats, trained animals, trapeze acts, musicians, hoopers, tightrope walkers, jugglers, unicyclists.",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image23": {
+      "img": "assets/entertainment/entertainment11.jpg",
+        "name": "Dance",
+        "views":5463,
+        "content":"One of the world's most influential dance education and professional membership organisations. The RAD sets global standards for exams in classical ballet",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image24": {
+      "img": "assets/entertainment/entertainment12.jpg",
+        "name": "Giant wheel",
+        "views":908,
+        "content":"The dry rides at Wonderla comprise state-of-the-art land rides. Packed with fun and adventure, these rides are full of surprises - from an amazing virtual reality to India's biggest musical fountain and laser show.",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    }
+
+
+
+},
+
+
+"Retail":{
+    "image25": {
+        "img": "assets/retail/retail1.jpg",
+        "name": "Super market",
+        "views":678,
+        "content":"A supermarket, a large form of the traditional grocery store, is a self-service shop offering a wide variety of food and household products, organized into aisles.",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image26": {
+        "img": "assets/retail/retail2.jpg",
+        "name": "Retail Services",
+        "views":500,
+        "content":"- Retail involves the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. Shopping generally refers to the act of buying products.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image27": {
+        "img": "assets/retail/retail3.jpg",
+        "name": "Social media",
+        "views":321,
+        "content":"Digital buyers worldwide are turning to social networks for a variety of things, like reading reviews and staying on top of fashion trends.",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image28": {
+      "img": "assets/retail/retail4.jpg",
+        "name": "Industry",
+        "views":1000,
+        "content":"The retail sector has been at the helm of India's growth story. The sector has evolved dramatically from traditional village fairs, street hawkers to resplendent.",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image29": {
+      "img": "assets/retail/retail5.jpg",
+        "name": "Restaurant",
+        "views":700,
+        "content":"Your storefront can be one of your most effective and low-cost promotional tools, but many small-business owners fail to take full advantage of the opportunities.",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image30": {
+      "img": "assets/retail/retail6.jpg",
+        "name": "Organized Report",
+        "views":300,
+        "content":" A project report on retail industry in india. ... comImpact of Organized Retail:Organized retailing is spreading and making it",
+        "rating":1,
+        "ratingimg":"assets/one.png"
+    },
+    "image31": {
+      "img": "assets/retail/retail7.jpg",
+        "name": "Currency",
+        "views":350,
+        "content":" it is an entirely different story as far as retail clients are concerned. The spread between the bid and ask price for a currency in the retail",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image32": {
+      "img": "assets/retail/retail8.jpg",
+        "name": "Savings",
+        "views":25,
+        "content":"A savings bank is a financial institution whose primary purpose is accepting savings deposits and paying interest on those deposits. They originated in Europe",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image33": {
+      "img": "assets/retail/retail9.jpg",
+        "name": "Retail chain",
+        "views":250,
+        "content":"retail chain are retail outlets that share a brand and central management, and usually have standardized business methods and practices.",
+        "rating":1,
+        "ratingimg":"assets/one.png"
+    },
+    "image34": {
+      "img": "assets/retail/retail10.jpg",
+        "name": "Evolution",
+        "views":200,
+        "content":"Retail is not dead, it’s simply evolving. I predict that over the next five years, consumers will experience completely new retail models that effectively use physical locations",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image35": {
+      "img": "assets/retail/retail11.jpg",
+        "name": "E-bay",
+        "views":16,
+        "content":"eBay is a place for online auctions. Anybody can sell almost anything they want there.People have to send what they sell themselves, usually using mail.",
+        "rating":1,
+        "ratingimg":"assets/one.png"
+    },
+    "image36": {
+      "img": "assets/retail/retail12.jpg",
+        "name": "Finance",
+        "views":15,
+        "content":"Finance is a field that deals with the study of investments. It includes the dynamics of assets and liabilities over time under conditions of different degrees of ",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+
+}
+},
+
+
+
+
+"Healthcare":{
+    "image37": {
+        "img": "assets/healthcare/healthcare1.jpg",
+        "name": "HealthCare",
+        "views":14,
+        "content":"Health care or healthcare is the maintenance or improvement of health via the diagnosis, treatment, and prevention of disease, illness, injury, and other physical and mental impairments in human beings.",
+        "rating":1,
+        "ratingimg":"assets/one.png"
+    },
+    "image38": {
+        "img": "assets/healthcare/healthcare2.jpg",
+        "name": "Reform",
+        "views":13,
+        "content":"It is a general rubric used for discussing major health policy creation or changes—for the most part, governmental policy that affects health care delivery in a given place.",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image39": {
+        "img": "assets/healthcare/healthcare3.jpg",
+        "name": "Medical",
+        "views":12,
+        "content":"Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. ... Medical availability and clinical practice varies across the world due to regional differences in culture and technology.",
+        "rating":1.5,
+        "ratingimg":"assets/onept5.png"
+    },
+    "image40": {
+      "img": "assets/healthcare/healthcare4.jpg",
+        "name": "Service Team",
+        "views":11,
+        "content":"Health care or healthcare is the maintenance or improvement of health via the diagnosis, ... and paraprofessionals coming together as interdisciplinary teams.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image41": {
+      "img": "assets/healthcare/healthcare5.jpg",
+        "name": "Beat rate",
+        "views":10,
+        "content":"A normal resting heart rate for adults ranges from 60 to 100 beats a minute. Generally, a lower heart rate at rest implies more efficient heart function and better cardiovascular fitness. ",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image42": {
+      "img": "assets/healthcare/healthcare6.jpg",
+        "name": "Equipments",
+        "views":9,
+        "content":"Medical equipment (also known as armamentarium) is designed to aid in the diagnosis, monitoring or treatment of medical conditions.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image43": {
+      "img": "assets/healthcare/healthcare7.jpg",
+        "name": "Hospitality",
+        "views":8,
+        "content":"the friendly and generous reception and entertainment of guests, visitors, or strangersrelating to or denoting the business of entertaining clients, conference delegates, or other official visitors.",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image44": {
+      "img": "assets/healthcare/healthcare8.jpg",
+        "name": "Care",
+        "views":7,
+        "content":"Hospitality, care and smile - the virtues that make our guests' holiday to a perfect experience in the Bad Waldbrunn.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image45": {
+      "img": "assets/healthcare/healthcare9.jpg",
+        "name": "Maintain BMI",
+        "views":6,
+        "content":"Basal metabolic rate (BMR) is the minimal rate of energy expenditure per unit time by ..... For the BMR, most of the energy is consumed in maintaining fluid levels in tissues through osmoregulation",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image46": {
+      "img": "assets/healthcare/healthcare10.jpg",
+        "name": "Human Right!",
+        "views":5,
+        "content":"The human right to health means that everyone has the right to the highest attainable standard of physical and mental health, which includes access to all medical services, sanitation, adequate food",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image47": {
+      "img": "assets/healthcare/healthcare11.jpg",
+        "name": "Resources",
+        "views":4,
+        "content":"Helps provide health resources for medically underserved populations and also works to build the health care workforce and maintains the National Health ",
+        "rating":1.5,
+        "ratingimg":"assets/onept5.png"
+    },
+    "image48": {
+      "img": "assets/healthcare/healthcare12.jpg",
+        "name": "Regulations",
+        "views":3,
+        "content":"Agencies create regulations  under the authority of ... arts of the Affordable Care Act that deal with private and public health insurance",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    }
+
+
+},
+"Banking":{
+
+    "image49": {
+        "img": "assets/banking/banking1.jpg",
+        "name": "Finance",
+        "views":2,
+        "content":"As money became a commodity, the money market became a component of the financial ... The core of the money market consists of interbank lending—banks ",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image50": {
+        "img": "assets/banking/banking2.jpg",
+        "name": "Share market",
+        "views":1,
+        "content":"A share market only allows trading of shares. The key factor is the stock exchange – the basic platform that provides the facilities used to trade company stocks and other securities.",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image51": {
+        "img": "assets/banking/banking3.jpg",
+        "name": "Insurance",
+        "views":36782,
+        "content":"Insurance is a means of protection from financial loss. It is a form of risk management primarily used to hedge against the risk of a contingent, uncertain loss.",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image52": {
+      "img": "assets/banking/banking4.jpg",
+        "name": "Reserve Bank",
+        "views":34567,
+        "content":"The Reserve Bank of India is India's central banking institution, which controls the monetary policy of the Indian rupee.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image53": {
+      "img": "assets/banking/banking5.jpg",
+        "name": "Fin-Sector",
+        "views":34582,
+        "content":"The financial sector is a category of stocks containing firms that provide financial services to commercial and retail customers; this sector includes banks, investment funds, insurance companies and real estate.",
+        "rating":1,
+        "ratingimg":"assets/one.png"
+    },
+    "image54": {
+      "img": "assets/banking/banking6.jpg",
+        "name": "Coin currency",
+        "views":3452,
+        "content":"The distribution of Coins is undertaken by RBI as an agent of the Government.",
+        "rating":3,
+        "ratingimg":"assets/three.png"
+    },
+    "image55": {
+      "img": "assets/banking/banking7.jpg",
+        "name": "Universe",
+        "views":782,
+        "content":"Careers in Global Banking and Markets at HSBC offer roles in areas including investment banking, capital markets, securities and research.",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image56": {
+      "img": "assets/banking/banking8.jpg",
+        "name": "Global service",
+        "views":3782,
+        "content":"The Global Service Data Bank is only available for Australia, New Zealand and Papua New Guinea customers holding a Daikin account number. ",
+        "rating":5,
+        "ratingimg":"assets/five.png"
+    },
+    "image57": {
+      "img": "assets/banking/banking9.jpg",
+        "name": "Categories",
+        "views":3467782,
+        "content":"Considering a software engineering case, domain knowledge is knowledge about the environment in which the target system operates",
+        "rating":4,
+        "ratingimg":"assets/four.png"
+    },
+    "image58": {
+      "img": "assets/banking/banking10.jpg",
+        "name": "ATM",
+        "views":34506782,
+        "content":"An ATM card is any payment card issued by a financial institution that enables a customer to access in order to perform transactions such as deposits",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+    },
+    "image59": {
+      "img": "assets/banking/banking11.jpg",
+        "name": "Property",
+        "views":345782,
+        "content":"Are you searching for the bank auction properties available for sale in Chennai? Then, see the updated list of latest foreclosure properties in the city.",
+        "rating":1.5,
+        "ratingimg":"assets/onept5.png"
+    },
+    "image60": {
+      "img": "assets/banking/banking12.jpg",
+        "name": "Products Panel",
+        "views":34582,
+        "content":"The user interface (UI), in the industrial design field of human–machine interaction, is the space ... to mean the graphical user interface",
+        "rating":2,
+        "ratingimg":"assets/two.png"
+
+}
+}
+}

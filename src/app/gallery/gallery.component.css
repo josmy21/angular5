@@ -1,0 +1,5 @@
+.thumbnail a>img, .thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+    height:150px !important;
+}

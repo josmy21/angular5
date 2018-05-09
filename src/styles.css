@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+.wrapper{
+	margin:0 auto;
+	width:1080px;
+	background-color: #91ad70;
+	height: 570px;
+}
